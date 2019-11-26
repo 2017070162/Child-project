@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <?php
 $Name=$_POST['Name'];
 $Email=$_POST['Email'];
@@ -40,3 +43,5 @@ if (!empty($Name)|| !empty($Email)|| !empty($Amount in dollar)){
 }
 
 ?>
+</body>
+</html>
