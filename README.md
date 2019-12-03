@@ -42,7 +42,7 @@
 * Week 15 : Final Release
 
 # Live Demo
-[![Netlify Status](https://api.netlify.com/api/v1/badges/29e42bcc-9514-4875-bc44-852d32081e86/deploy-status)](https://app.netlify.com/sites/african-child-project/deploys)
+ 
  <p align="center">
 >><a href="https://2017070162.github.io/Child-project/">Home page</a><<<br>
 <br>
