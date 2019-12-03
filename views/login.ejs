@@ -1,0 +1,29 @@
+
+<%-include("header")-%>
+  
+  <form action="/users/login" method="post" style="padding: 7% 40%;">
+    <%-include("./partials/messages")-%>
+    <h1 style="color:green;">Login Here</h1>
+    <div class="form-row">
+      <input type="email" id="email" name="email" class="form-control" placeholder="Enter Email" />
+    </div>
+    <div class="form-row">
+      <input type="password" id="password" name="password" class="form-control" placeholder="Enter Password" />
+    </div>
+    <div class="form-row">
+      <button type="submit" class="btn btn-primary"
+        style="padding-left: 60px;padding-right: 60px;border: 1px solid black"> Go </button>
+      <a href="/" class="btn btn-primary"
+        style="margin-left:50px;padding-left: 60px;padding-right: 60px;border:1px solid black"> Register </a>
+    </div>
+    </br>
+
+
+
+  </form>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/umd/popper.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+
+</html>
