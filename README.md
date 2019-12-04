@@ -14,7 +14,6 @@
 * HTML
 * CSS
 * Bootstrap 
-* Java
 
 # Home page Interface 
 
@@ -36,8 +35,9 @@
 * Week 9 : Setting home pages and css
 * Week 10 : Completion of Front-End
 * Week 11 : Backend Optimization
-* Week 12 : Frontend Optimization
-* Week 13 : Backend Debugging and Stress testing
+* Week 12 : URL from glitch
+* Week 13 : User login and Account has been created and 
+            * Create and delete method has been implemented from CRUD operation
 * Week 14 : Upgrade Ops based on Teacher's Input
 * Week 15 : Final Release
 
