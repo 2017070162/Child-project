@@ -43,5 +43,5 @@
 
 # Live Demo
  <p align="center">
->><a href="https://2017070162.github.io/Child-project/">Home page</a><<<br>
+>><a href="https://2017070162-child-project-3.glitch.me/">Home page</a><<<br>
 <br>
