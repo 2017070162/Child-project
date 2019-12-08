@@ -31,8 +31,8 @@ app.get("/about", (req, res)=>{
 app.get("/blog", (req, res)=>{
   res.render("blog");
 });
-app.get("/contactdonate", (req, res) => {
-  res.render("contactdonate");
+app.get("/contact", (req, res) => {
+  res.render("contact");
 });
 app.get("/donate", (req, res) => {
   res.render("donate");
