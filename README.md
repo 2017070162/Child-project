@@ -10,36 +10,42 @@
   ![Screenshot (3)](https://user-images.githubusercontent.com/56429898/70540915-08d3bc00-1ba1-11ea-9847-99572eb4b5e4.png)
 
  # Technology 
+ 
+ # # Front End
+* HTML.
+* CSS.
+* JAVASCRIPT.
+* BOOTSTRAP.
+* JQUERY.
 
-* HTML
-* CSS
-* Bootstrap 
-* Java
-
-# Home page Interface 
-
-* On my home page their will be navigation bar (Home, About us,Donate Now, blog and Contact) with a slide show as a head and nav.
+# # Back End
+* NODE JS.
+* DATABASE:MONGODB.
+* URL Glitch
+ 
 # Features 
-
-* Help African Children.
-* Help in education 
-* donate any dollar.
-* More Information.
-* send message.
-* Contact us with facebook and e-mail and tel.
-* Friendly.
-* Approachable.
+* Home page
+* Event
+* About us 
+* donate Now(Qr code)
+* Blog
+* Registration
+* Login
 
  # Plan 
 
 * Week 8 : Github update
-* Week 9 : Setting home pages and css
-* Week 10 : Completion of Front-End
-* Week 11 : Backend Optimization
+* Week 9 : Setting home 
+* Week 10 : Making home page responsive  
+* Week 11 : Completion of Front-End
 * Week 12 : Frontend Optimization
-* Week 13 : Backend Debugging and Stress testing
-* Week 14 : Upgrade Ops based on Teacher's Input
-* Week 15 : Final Release
+* Week 13 : Getting ready the user account with back end technology.
+* Week 14 :  Create and Delete method has been implemented from CRUD operation
+* week 15 :finished the CRUD operation (* User can create account
+                                        * User can change the information
+                                        * User can delate account)
+                                        
+* Week 16 : Final Release
 
 # Live Demo
 [Click for live demo](https://scarlet-socks.glitch.me/)
