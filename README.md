@@ -11,14 +11,14 @@
 
  # Technology 
  
- # # Front End
+ ## Front End
 * HTML.
 * CSS.
 * JAVASCRIPT.
 * BOOTSTRAP.
 * JQUERY.
 
-# # Back End
+## Back End
 * NODE JS.
 * DATABASE:MONGODB.
 * URL Glitch
