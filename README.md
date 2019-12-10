@@ -7,7 +7,7 @@
 * This website will help people to get in Contact with African_Child project to help Children in Africa in different ways, Poverty is common in many African
  countries and millions of children are at risk of hunger, HIV, AIDS, malnutrition, malaria and preventable disease. Your tax-deductible donation will
  make a lifelong impact in a child’s life. Thank you and God bless as you donate to African_Child funds, helping support children in Africa!
-  ![Screenshot (22)](https://user-images.githubusercontent.com/56429898/69038796-85053480-0a25-11ea-93d7-4ae5ee2d7d77.png)
+  ![Screenshot (3)](https://user-images.githubusercontent.com/56429898/70540915-08d3bc00-1ba1-11ea-9847-99572eb4b5e4.png)
 
  # Technology 
 
