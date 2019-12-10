@@ -1,0 +1,10 @@
+<%-include("header")-%>
+<a href="/users/logout" class="btn btn-primary" style="float: left;">Logout</a>
+<a href="/setting" class="btn btn-primary" style="float: left;margin: 0% 10px;"> Setting </a>
+<form action="/delete" method="POST">
+    <input type="text" class="form-control" name="id" value="<%= user._id %>" hidden>
+    <button type="submit" class="btn btn-danger"> Delete Account </button>
+</form>
+<h1 style="text-align: center;padding-top:30px">Hi <span style="color:red"><%= user.name %></span> Welcome to our
+    project. Be a proud
+    member of this </h1>

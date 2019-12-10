@@ -1,0 +1,20 @@
+<%-include("header")-%>
+<div style="margin: 3% 24%;">
+    <h3>Change Credentials</h3>
+    <h3>Current Name: <span style="color:red"><%= user.name %></span></h3>
+    <h3>Current Email: <span style="color:red"><%= user.email %></span></h3>
+</div>
+<form action="/edit" method="POST" style="margin: 3%  44% 3% 24%;">
+    <input type="text" name="name" class="form-control" id="name" required placeholder="Edit Your Name">
+    <input type="email" name="email" class="form-control" id="email" required placeholder="Edit Your Email">
+    <input type="text" name="id" id="id" value="<%= user._id %>" hidden>
+    <button type="submit" class="btn btn-primary"> Save </button>
+    <a href="/setting" class="btn btn-primary"> Setting </a>
+    <a href="/dashboard" class="btn btn-primary"> Go back to user </a>
+</form>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+
+</html>
