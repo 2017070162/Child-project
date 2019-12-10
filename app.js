@@ -74,10 +74,6 @@ app.use(function(req, res, next) {
 app.use("/", require("./routes/index.js"));
 app.use('/users', require('./routes/users.js'));
 
-<<<<<<< HEAD
 const PORT = process.env.PORT || 5000;
-=======
-const PORT = process.env.PORT || 3000;
->>>>>>> 2333d5958180e3df9dc51b0b1c66309c7f187612
 
 app.listen(PORT, console.log(`Server started on port ${PORT}`));

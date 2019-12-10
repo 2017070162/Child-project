@@ -15,7 +15,6 @@ router.get('/dashboard', ensureAuthenticated, (req, res) =>
     user: req.user
   })
 );
-<<<<<<< HEAD
 
 router.get("/edit", (req, res) => res.render("edit", { user: req.user }));
 router.get("/setting", (req, res) => res.render("setting", { user: req.user }));
@@ -35,8 +34,6 @@ router.post("/edit", (req, res) => {
   });
 });
 
-=======
->>>>>>> 2333d5958180e3df9dc51b0b1c66309c7f187612
 router.post("/delete", (req, res) => {
   const deleteItem = req.body.id;
   User.findByIdAndDelete(deleteItem, (err) => {

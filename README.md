@@ -14,6 +14,7 @@
 * HTML
 * CSS
 * Bootstrap 
+* Java
 
 # Home page Interface 
 
@@ -35,13 +36,13 @@
 * Week 9 : Setting home pages and css
 * Week 10 : Completion of Front-End
 * Week 11 : Backend Optimization
-* Week 12 : URL from glitch
-* Week 13 : User login and Account has been created and 
-            * Create and delete method has been implemented from CRUD operation
+* Week 12 : Frontend Optimization
+* Week 13 : Backend Debugging and Stress testing
 * Week 14 : Upgrade Ops based on Teacher's Input
 * Week 15 : Final Release
 
 # Live Demo
+[![Netlify Status](https://api.netlify.com/api/v1/badges/29e42bcc-9514-4875-bc44-852d32081e86/deploy-status)](https://app.netlify.com/sites/african-child-project/deploys)
  <p align="center">
->><a href="https://2017070162-child-project-3.glitch.me/">Home page</a><<<br>
+>><a href="https://2017070162.github.io/Child-project/">Home page</a><<<br>
 <br>
