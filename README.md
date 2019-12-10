@@ -1,6 +1,5 @@
 # African_Child
- ![Screenshot (5)](https://user-images.githubusercontent.com/56429898/70540782-d033e280-1ba0-11ea-99a9-4939adfa5155.png)
-
+ ![Screenshot (5)]](https://user-images.githubusercontent.com/56429898/70546269-ed20e380-1ba9-11ea-89d1-ace59a5f2cf8.png)
 
 # Introduction
   
