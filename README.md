@@ -46,4 +46,4 @@
 * Week 16 : Final Release
 
 # Live Demo
-[Click for live demo](https://blushing-pail.glitch.me/)
+[Click for live demo](https://2017070162-child-project-2.glitch.me/)
