@@ -46,4 +46,4 @@
 * Week 16 : Final Release
 
 # Live Demo
-[Click for live demo](https://unmarred-whippet.glitch.me/)
+[Click for live demo](https://blushing-pail.glitch.me/)
