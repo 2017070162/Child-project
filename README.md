@@ -1,5 +1,6 @@
 # African_Child
- ![Screenshot (4)](https://user-images.githubusercontent.com/56429898/70546549-73d5c080-1baa-11ea-9c53-4bf7c0c62fc0.png)
+  ![Screenshot (15)](https://user-images.githubusercontent.com/56429898/70767547-b828b280-1d9c-11ea-8cbe-76e68c911338.png)
+
 # Introduction
   
 * This website will help people to get in Contact with African_Child project to help Children in Africa in different ways, Poverty is common in many African
